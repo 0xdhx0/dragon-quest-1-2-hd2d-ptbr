@@ -41,7 +41,7 @@ fim desta página).*
 
 ## 📥 Download (v1.0)
 
-**[⬇️ Baixar `DQ12_HD2D_PTBR_v1.0.zip`](../../releases/latest)**: as duas versões da tradução, o guia `LEIA-ME.txt` e os
+**[⬇️ Baixar `DQ1_2_HD2D_PTBR_v1.0.zip`](../../releases/latest)**: as duas versões da tradução, o guia `LEIA-ME.txt` e os
 termos de uso.
 
 | Dentro do zip | O que é |
