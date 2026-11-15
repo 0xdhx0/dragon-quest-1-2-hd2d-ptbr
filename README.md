@@ -16,9 +16,6 @@ fim desta página).*
 > habilidades, monstros, descrições, mensagens de batalha, guia do mapa, Dicas de Viagem e os cargos dos créditos.
 > Se achar algum problema, abra uma [issue](../../issues).
 
-> 🇯🇵 **Traduzida com duas visões do texto desde o começo**: o inglês como base (sentido, piadas, rimas e sotaques da
-> localização) e o **japonês original** para acertar gênero e plural, quem fala com quem e o que o inglês deixa ambíguo.
-
 ## 📸 Fotos
 
 <table>
