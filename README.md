@@ -1,120 +1,108 @@
 ![Dragon Quest I & II HD-2D Remake — Tradução PT-BR](imagens/banner.png)
 
-# 🐉 Dragon Quest I & II HD-2D Remake (PC) — Tradução PT-BR v1.0
+# 🐉 Dragon Quest I & II HD-2D Remake (PC) — Tradução PT-BR
 
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
-![Plataforma](https://img.shields.io/badge/plataforma-PC%20(Steam)-1b2838)
+![Plataforma](https://img.shields.io/badge/plataforma-PC-1b2838)
+![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-Steam-555)
 ![Release](https://img.shields.io/github/v/release/0xdhx0/dragon-quest-1-2-hd2d-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
-Tradução de fã do **Dragon Quest I & II HD-2D Remake** (PC, Steam) para o **português do Brasil**.
+Tradução de fã do **Dragon Quest I & II HD-2D Remake** (PC, Steam).
+**Tradução completa para o português do Brasil** dos dois jogos, com menus, história, diálogos, magias, itens,
+monstros, lugares e descrições em português.
 
 *Feita por fãs, para fãs. Gratuita, sem fins lucrativos e sem nenhuma ligação com a Square Enix (veja o aviso legal no
 fim desta página).*
 
-> ✅ Os dois jogos estão traduzidos por inteiro: história, falas de todas as cidades e castelos, menus, itens, magias,
-> habilidades, monstros, descrições, mensagens de batalha, guia do mapa, Dicas de Viagem e os cargos dos créditos.
-> Se achar algum problema, abra uma [issue](../../issues).
+> ✅ Os dois jogos estão traduzidos por inteiro. Se achar algum problema, abra uma [issue](../../issues).
 
 ## 📸 Fotos
 
-<table>
-<tr>
-<td align="center"><img src="imagens/fotos/01.jpg" width="400"><br><sub>Tela de título</sub></td>
-<td align="center"><img src="imagens/fotos/02.jpg" width="400"><br><sub>Dragon Quest I: escolha do jogo</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="imagens/fotos/03.jpg" width="400"><br><sub>Dragon Quest II: escolha do jogo</sub></td>
-<td align="center"><img src="imagens/fotos/05.jpg" width="400"><br><sub>Dragon Quest I: menu de campo</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="imagens/fotos/06.jpg" width="400"><br><sub>Dragon Quest II: abertura</sub></td>
-<td align="center"><img src="imagens/fotos/04.jpg" width="400"><br><sub>Dragon Quest II: diálogo da história</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="2"><img src="imagens/fotos/07.jpg" width="400"><br><sub>Dragon Quest II: batalha</sub></td>
-</tr>
-</table>
-
-## 📥 Download (v1.0)
-
-**[⬇️ Baixar `DQ1_2_HD2D_PTBR_v1.0.zip`](../../releases/latest)**: as duas versões da tradução, o guia `LEIA-ME.txt` e os
-termos de uso.
-
-| Dentro do zip | O que é |
+| | |
 |---|---|
-| `Nomes Traduzidos/DQ1_2_PTBR_NomesTraduzidos_P.pak` | Versão Nomes Traduzidos (tudo em português) |
-| `Nomes Originais/DQ1_2_PTBR_NomesOriginais_P.pak` | Versão Nomes Originais (igual, mas com os nomes que se procuram num guia como no original) |
+| ![Tela de título](imagens/fotos/01.jpg) | ![Dragon Quest I: escolha do jogo](imagens/fotos/02.jpg) |
+| Tela de título | Dragon Quest I: escolha do jogo |
+| ![Dragon Quest II: escolha do jogo](imagens/fotos/03.jpg) | ![Dragon Quest I: menu de campo](imagens/fotos/05.jpg) |
+| Dragon Quest II: escolha do jogo | Dragon Quest I: menu de campo |
+| ![Dragon Quest II: abertura](imagens/fotos/06.jpg) | ![Dragon Quest II: diálogo da história](imagens/fotos/04.jpg) |
+| Dragon Quest II: abertura | Dragon Quest II: diálogo da história |
+| ![Dragon Quest II: batalha](imagens/fotos/07.jpg) | |
+| Dragon Quest II: batalha | |
 
-## 🎭 Duas versões: escolha a sua
 
-| | **Nomes Traduzidos** | **Nomes Originais** |
+## 📥 Download
+
+**[⬇️ Baixar a tradução](../../releases/latest)** (página da versão mais recente). Dentro do zip vem o arquivo `.pak` da
+tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** abaixo.
+
+## 🎮 O que foi traduzido
+
+| Parte | Textos | Cobertura |
 |---|---|---|
-| Menus e telas | Português | Português |
-| História, diálogos e mensagens | Português | Português |
-| Descrições de itens, magias, habilidades e monstros | Português | Português |
-| Piadas, rimas e sotaques dentro das falas | Recriados em português | Recriados em português |
-| Magias e habilidades | Português (*Fogo, Megafogo, Raio, Megarraio, Teleporte*) | Originais (*Frizz, Kafrizz, Zap, Kazap, Zoom*) |
-| Itens e equipamentos | Português (*Erva Medicinal, Asa de Quimera, Espada de Erdrick, Selo do Sol*) | Originais (*Medicinal Herb, Chimaera Wing, Erdrick's Sword, Sun Sigil*) |
-| Monstros, inclusive chefes | Português (*Draculino, Slime Metálico, Golem de Ouro*) | Originais (*Dracky, Metal Slime, Gold Golem*) |
-| Cidades, castelos e masmorras | Português (*Porto Marola, Castelo do Senhor Dragão, Covil de Hargon*) | Originais (*Rippleport, Dragonlord's Castle, Hargon's Lair*) |
-| Pousadas, lojas e lugares só citados | Português | Português (iguais) |
-| Apelidos-trocadilho de personagem | Português (*Roge Mão-Leve, Dom Percal, Seu Ronrom*) | Originais (*Roge Fastfinger, Don Calico, Mister Purrkins*) |
-| Títulos com nome (o título se traduz, o nome não) | Português (*Rei de Tantegel, Princesa Gwaelin, Senhor Dragão*) | Português (iguais) |
-| Nomes próprios sem trocadilho (Erdrick, Alefgard, Midenhall, Cannock, Moonbrooke, Hargon…) | Iguais | Iguais |
-| PV / PM / Nv. | PV / PM / Nv. | PV / PM / Nv. |
+| Diálogos, cenas, moradores, livros e placas (DQ I e DQ II) | 12.201 | 100% |
+| Menus, itens, magias, habilidades, monstros, batalha, lojas, igreja, guia do mapa, Dicas de Viagem | 3.490 | 100% |
+| Nomes com gênero, artigo e plural (itens, monstros, magias, lugares, personagens) | 1.584 | 100% |
 
-- **Nomes Traduzidos:** o jogo todo em português, com os trocadilhos dos nomes recriados.
-- **Nomes Originais:** para quem joga com guia, wiki ou fórum em inglês. É igual à Nomes Traduzidos, menos o que se
-  procura num guia: os nomes de **cidades e masmorras, itens, equipamentos, magias, habilidades e monstros** ficam como
-  no original. Todo o resto continua em português. Exemplo: na batalha a magia aparece como *Kafrizz* e o monstro como
-  *Metal Slime*, mas toda a frase em volta continua em português.
+- **Tudo a partir do inglês**, com o contexto da história e de quem está falando em cada fala. Quando o inglês faz
+  piada ou rima, a piada e a rima foram recriadas em português em vez de traduzidas ao pé da letra.
+- **"Você" com sabor antigo:** o inglês do jogo é todo arcaico (*thou, thee, hast*). Em vez de "tu" e "vós", o ar
+  medieval vem do vocabulário e da ordem das frases (*"Saudações"*, *"imploro-lhe"*), com reis e anciãos mais solenes.
+- **Cada personagem fala do seu jeito:** o ceceio da princesa de Aliahan, a fala popular dos piratas, anões e
+  brutamontes, as fadas (*Super-Visora, Sussurra-Sonhos, Mestra-Artesã*), a quadrilha do **Roubin' Hood** e os slimes
+  que falam "gosma" (*"gosmaravilhoso"*).
+- **Interface:** PV/PM no lugar de HP/MP, artigos e gênero corretos nas mensagens de batalha (*"O prestidigitador sofre
+  302 pontos de dano!"*, *"A múmia está confusa!"*) e "O" de ouro no lugar do "G" das moedas.
 
-## ✨ Destaques da tradução
+### Alguns exemplos
 
-- **"Você" com sabor antigo:** o inglês do jogo é todo em estilo arcaico (*thou, thee, hast*). Em vez de "tu" e "vós",
-  o ar medieval vem do vocabulário e da ordem das frases (*"Saudações"*, *"imploro-lhe"*), com reis e anciãos mais
-  solenes.
-- **Artigos e gênero de verdade na batalha:** *"O prestidigitador sofre 302 pontos de dano!"*, *"A múmia está
-  confusa!"*. Cada nome tem gênero, artigo e plural em português.
-- **Vozes:** rimas recriadas rimando, o ceceio da princesa de Aliahan, a fala popular dos piratas e anões, as fadas
-  (*Super-Visora, Sussurra-Sonhos, Mestra-Artesã*), a quadrilha do **Roubin' Hood** e os slimes que falam "gosma"
-  (*"gosmaravilhoso"*).
-- **Magias por nível:** base < Super < Mega < Giga (*Raio, Super-raio, Megarraio, Gigarraio*), o mesmo padrão das nossas
-  traduções do Dragon Quest VIII e IX.
-- **Dificuldades:** *Draculino Quest*, *Dragon Quest* e *Draconiano Quest*.
+- **Magias:** *Frizz/Kafrizz → Fogo/Megafogo · Zap/Kazap → Raio/Megarraio · Zoom → Teleporte*. As magias seguem o
+  mesmo padrão das nossas traduções do Dragon Quest VIII e IX (base, Super, Mega, Giga), para dar para ver a força da
+  magia só pelo nome.
+- **Itens:** *Medicinal Herb → Erva Medicinal · Chimaera Wing → Asa de Quimera · Sun Sigil → Selo do Sol ·
+  Malevolash → Malaçoite · Hextract → Extrato de Bruxa*.
+- **Monstros:** traduzidos, com graça (*Dracky → Draculino · Madusa → Doidusa · Hula Ruler → Rei do Rebolado ·
+  Drohl Drone → Babão Operário*); Slime, Golem e Orc ficam, porque já são palavras do português.
+- **Cidades:** os nomes próprios ficam (Midenhall, Moonbrooke, Cannock, Tantegel); as que são piada ou descrição foram
+  recriadas (*Rippleport → Porto Marola · Leftwyne → Vila Poente*).
+- **Dificuldades:** *Missão Draculino*, *Missão Dragão* e *Missão Draconiana*.
 
 ## 🚫 O que não foi traduzido (de propósito)
 
 | O quê | Por quê |
 |---|---|
-| Imagens das Dicas de Viagem (telas de exemplo do menu) | São capturas da tela em inglês; o texto das dicas em si está traduzido. |
-| Logotipos e os cargos grandes do final (*Scenario & Game Design*…) | Arte e marcas; os créditos em texto estão traduzidos. |
-| Nomes da equipe, empresas e avisos legais nos créditos | Nomes próprios e textos legais (iguais em todos os idiomas do jogo). |
+| Nomes próprios (Erdrick, Alefgard, Gwaelin, Midenhall, Cannock, Moonbrooke, Hargon…) | São nomes, iguais em todas as versões do jogo. |
+| Imagens das Dicas de Viagem e do tutorial (telas de exemplo do menu) | São capturas da tela em inglês; o texto das dicas em si está traduzido. |
+| Logotipos | Arte e marcas registradas. |
+| Créditos finais (cargos e nomes da equipe) | Ficam como no original. |
+| Puff-Puff | Piada clássica da série; o nome é o mesmo em todas as línguas. |
+| Slime, Golem e Orc | Nomes de monstros que já são palavras usadas em português. |
+| Nome do idioma no menu ("Inglês") | A lista de idiomas é fixa no jogo: a tradução entra no lugar do inglês. |
 | Separador de milhar com vírgula (*758,761*) | Vem do motor do jogo com o idioma inglês. |
+| Vozes | Ficam as vozes originais (inglês ou japonês, como você escolher). |
 
 ## 💿 O que você precisa
 
-- O **Dragon Quest I & II HD-2D Remake** original para **PC (Steam)**. **Este projeto não distribui o jogo.**
-- O idioma do texto em **inglês** nas opções (a tradução entra no lugar do inglês; com ela instalada, a opção aparece como *Inglês*).
+Você precisa da sua **própria cópia** do **Dragon Quest I & II HD-2D Remake** para **PC (Steam)**. **Este projeto não
+distribui o jogo.**
 
-## 💾 Como instalar
+## 💾 Instalação
 
 A tradução é um arquivo `.pak` que o jogo carrega **por cima** dos arquivos originais. Nenhum arquivo do jogo é
 alterado.
 
-1. Escolha **uma** versão (Nomes Traduzidos **ou** Nomes Originais).
-2. Copie o `.pak` dela para a pasta `Paks` do jogo:
+1. Copie o arquivo `DQ1_2_PTBR_P.pak` para a pasta `Paks` do jogo:
    `...\steamapps\common\DRAGON QUEST I and II HD-2D Remake\Game\Content\Paks\`
    (na Steam: botão direito no jogo → *Gerenciar* → *Explorar arquivos locais* → `Game\Content\Paks`).
-3. Abra o jogo e, em *Opções de Idioma*, deixe o **Idioma do Texto** em **Inglês** (*English*). As vozes podem ficar no idioma que preferir.
+2. Abra o jogo e, em *Opções de Idioma*, deixe o **Idioma do Texto** em **Inglês** (*English*). As vozes podem ficar
+   no idioma que preferir.
 
-- **Desinstalar:** apague o `.pak` da tradução da pasta `Paks`.
-- **Trocar de versão:** apague um `.pak` e copie o outro. **Nunca deixe os dois** na pasta ao mesmo tempo.
+- **Para atualizar** a partir de qualquer versão anterior, apague da pasta `Paks` o `.pak` antigo da tradução
+  (qualquer arquivo `DQ1_2_PTBR_..._P.pak`) e copie o novo. **Para voltar ao inglês**, só apague o `.pak`.
 - **Outras traduções:** se houver outro `.pak` de tradução na pasta `Paks` (de outra equipe), tire-o antes; com dois,
   o jogo mistura os textos.
-- **Saves** do jogo em inglês funcionam normalmente com a tradução.
-- **Atualizações do jogo** podem mudar os textos; se algo aparecer em inglês depois de uma atualização, abra uma issue.
+
+Saves do jogo em inglês funcionam normalmente.
 
 ## 🔒 Segurança
 
@@ -125,25 +113,24 @@ alterado.
 
 | Sintoma | Causa provável |
 |---|---|
-| Tudo continua em inglês | O `.pak` não está em `Game\Content\Paks`, ou o Idioma do Texto não está em *Inglês* (*English*). |
-| Textos misturados (parte em outra tradução) | Há outro `.pak` de tradução na pasta `Paks`. Deixe só o nosso. |
-| Nomes trocados entre as versões | Os dois `.pak` (Nomes Traduzidos e Nomes Originais) estão na pasta. Deixe só um. |
+| Continua tudo em inglês | O `.pak` não está em `Game\Content\Paks`, ou o Idioma do Texto não está em *Inglês* (*English*). |
+| Textos misturados ou nomes antigos | Há outro `.pak` de tradução na pasta `Paks` (de outra equipe ou de uma versão anterior desta). Deixe só o novo. |
+| Algo em inglês depois de uma atualização do jogo | A atualização pode ter mudado os textos. Abra uma issue. |
 | Travamento ou tela preta | Abra uma issue informando onde aconteceu. |
 
 ## 🐞 Achou um erro?
 
-Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão (Nomes Traduzidos ou
-Nomes Originais), o jogo (DQ I ou DQ II), o lugar e, se puder, mande um print. Toda correção de português também é
-bem-vinda.
+Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na tradução". Informe a versão do patch, o jogo
+(DQ I ou DQ II), o lugar e, se puder, mande um print. Toda correção de português também é bem-vinda.
 
 ## 🙏 Créditos
 
 - **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
 - **Fontes livres** usadas no banner: Cinzel e Arimo (licença OFL).
 
-**Como foi feita:** a tradução usou ferramentas de IA, com revisão. Todo o texto foi traduzido a partir do inglês e do
-japonês, com o contexto da história e o jeito de falar de cada personagem, e testado no jogo. Se achar uma frase
-estranha, abra uma [issue](../../issues), porque toda sugestão ajuda.
+**Como foi feita:** a tradução usou ferramentas de IA. Todo o texto foi traduzido a partir do inglês com o contexto da
+história e o jeito de falar de cada personagem, e testado no jogo. Se achar uma frase estranha, abra uma
+[issue](../../issues), porque toda sugestão ajuda.
 
 ## ⚖️ Aviso legal e uso
 
@@ -152,8 +139,8 @@ estranha, abra uma [issue](../../issues), porque toda sugestão ajuda.
   nem aprovado ou apoiado por elas.
 - *Dragon Quest I & II HD-2D Remake* e todos os nomes, marcas e personagens pertencem aos seus donos
   (© ARMOR PROJECT/BIRD STUDIO/SPIKE CHUNSOFT/SQUARE ENIX, © SUGIYAMA KOBO).
-- O pacote contém **só os arquivos de texto da tradução** e **não funciona sem o jogo original**. O jogo não é
-  distribuído aqui: não peça nem compartilhe cópias do jogo neste repositório.
+- O pacote contém **só os arquivos de texto da tradução** (um `.pak`) e **não funciona sem o jogo original**. O jogo
+  não é distribuído aqui: não peça nem compartilhe cópias do jogo neste repositório.
 - Pode usar e compartilhar a tradução à vontade, **de graça**. Ela **não pode ser vendida** nem monetizada. Se alguém
   cobrou por ela, você foi enganado. Veja [LICENSE.txt](LICENSE.txt).
 - Se você é detentor de algum direito e quer que algo seja retirado, abra uma issue ou entre em contato pelo GitHub.
