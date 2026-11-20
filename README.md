@@ -46,8 +46,9 @@ tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** ab
 
 - **Tudo a partir do inglês**, com o contexto da história e de quem está falando em cada fala. Quando o inglês faz
   piada ou rima, a piada e a rima foram recriadas em português em vez de traduzidas ao pé da letra.
-- **"Você" com sabor antigo:** o inglês do jogo é todo arcaico (*thou, thee, hast*). Em vez de "tu" e "vós", o ar
-  medieval vem do vocabulário e da ordem das frases (*"Saudações"*, *"imploro-lhe"*), com reis e anciãos mais solenes.
+- **Tratamento antigo:** o inglês do jogo é todo arcaico (*thou, thee, hast*). Reis, sábios, o Senhor Dragão e outros
+  personagens solenes falam com "tu" e "vós"; os demais usam "você", com o ar medieval vindo do vocabulário
+  (*"Saudações"*, *"imploro-lhe"*).
 - **Cada personagem fala do seu jeito:** o ceceio da princesa de Aliahan, a fala popular dos piratas, anões e
   brutamontes, as fadas (*Super-Visora, Sussurra-Sonhos, Mestra-Artesã*), a quadrilha do **Roubin' Hood** e os slimes
   que falam "gosma" (*"gosmaravilhoso"*).
@@ -75,6 +76,7 @@ tradução e um guia `LEIA-ME.txt`. Como instalar: veja **💾 Instalação** ab
 | Imagens das Dicas de Viagem e do tutorial (telas de exemplo do menu) | São capturas da tela em inglês; o texto das dicas em si está traduzido. |
 | Logotipos | Arte e marcas registradas. |
 | Créditos finais (cargos e nomes da equipe) | Ficam como no original. |
+| Outras imagens com texto | Só o "Fin" da tela final virou "Fim"; tutoriais, logotipos e créditos ficam no original. |
 | Puff-Puff | Piada clássica da série; o nome é o mesmo em todas as línguas. |
 | Slime, Golem e Orc | Nomes de monstros que já são palavras usadas em português. |
 | Nome do idioma no menu ("Inglês") | A lista de idiomas é fixa no jogo: a tradução entra no lugar do inglês. |
